@@ -1,8 +1,9 @@
 Use Action Points instead of Action Types
 -Movement: 2 points per Zone
 -Acts: 4 points
--Resp: 1 point
 -Aux: 3 points
+-Resp: 1 point
+
 
 -Double AP cost during Enemy Phase
 -Everyone starts with 9 AP at Level 1
@@ -10,3 +11,4 @@ Use Action Points instead of Action Types
 -Spend 1 AP to do an RP-Roll with 1d6h, +1 AP +1d6h
 
 Pathfinder 2e
+
