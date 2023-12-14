@@ -1,0 +1,4 @@
+repository "SimpleTop Mobile@DFairDesigns@cloud"
+  path "/"
+    br "/main"
+    co "/main"
