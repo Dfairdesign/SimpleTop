@@ -61,6 +61,8 @@
     <Compile Include="Assets\Scripts\ModalManager.cs" />
     <Compile Include="Assets\Scripts\TMPContent.cs" />
     <Compile Include="Assets\Scripts\ToggleActive.cs" />
+    <Compile Include="Assets\ScriptableObjects\SO_Chapter.cs" />
+    <Compile Include="Assets\ScriptableObjects\SO_Page.cs" />
     <Compile Include="Assets\Scripts\SpawnModal.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\PanelSwiper.cs" />
