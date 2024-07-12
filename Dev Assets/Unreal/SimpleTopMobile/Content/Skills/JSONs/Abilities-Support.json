@@ -1,0 +1,30 @@
+[
+	{
+		"Name": "Ranged Support",
+		"Stat Level": 2,
+		"Uses": 0,
+		"Text": "When you heal a target, you can heal (PIB) Health to another target.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Bunker Down",
+		"Stat Level": 3,
+		"Uses": 1,
+		"Text": "If you take damage that would bring you to 0 Health, you can stay at 1 Health. You can only do this once per combat session.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Drain",
+		"Stat Level": 4,
+		"Uses": 0,
+		"Text": "When you deal damage using a Support Action, you can Heal (PIB) Health to yourself.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Guardian Angel",
+		"Stat Level": 6,
+		"Uses": 0,
+		"Text": "When an ally falls to 0 Health, you can lose half of your Max Health to restore that ally's Health to (PIB).'",
+		"Replaces": ""
+	}
+]

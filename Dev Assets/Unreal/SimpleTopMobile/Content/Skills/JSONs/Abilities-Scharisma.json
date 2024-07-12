@@ -1,0 +1,37 @@
+[
+	{
+		"Name": "ReRoleplay",
+		"Stat Level": 2,
+		"Uses": 0,
+		"Text": "When you roleplay outside of combat, roll 2d6 and use either roll.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Motivation",
+		"Stat Level": 3,
+		"Uses": 6,
+		"Text": "You can let an ally in your Zone reroll any roll they make. Only (PIB) rolls can be rerolled per combat session.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Stunt Performer",
+		"Stat Level": 4,
+		"Uses": 0,
+		"Text": "Add 1 to your rolls when roleplaying in combat.",
+		"Replaces": ""
+	},
+	{
+		"Name": "',:) Succor'",
+		"Stat Level": 5,
+		"Uses": 0,
+		"Text": "Allies can add 1 to rolls they make during the Player Phase while in your Zone.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Ensemble",
+		"Stat Level": 6,
+		"Uses": 0,
+		"Text": "You and your team have (PIB) AP to spend on roleplaying in combat. These AP only restore after combat ends.",
+		"Replaces": ""
+	}
+]

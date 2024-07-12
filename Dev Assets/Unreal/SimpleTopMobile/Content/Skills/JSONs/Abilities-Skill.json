@@ -1,0 +1,16 @@
+[
+	{
+		"Name": "Flow",
+		"Stat Level": 5,
+		"Uses": 0,
+		"Text": "At the start of each Player Phase, roll 1d6. If you roll a 6, you gain 1 AP.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Parry",
+		"Stat Level": 6,
+		"Uses": 0,
+		"Text": "When you take damage, roll 2d6. If you roll a total of 9 or higher, reduce the damage by PIB.",
+		"Replaces": ""
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"Name": "Move",
+		"Stat Level": 1,
+		"Cost": 1,
+		"Text": "Move to an adjacent, accessible Zone."
+	},
+	{
+		"Name": "Spate",
+		"Stat Level": 1,
+		"Cost": 3,
+		"Text": "Distribute (Lv+PIB) damage to multiple targets in your Zone."
+	},
+	{
+		"Name": "Focus",
+		"Stat Level": 2,
+		"Cost": 1,
+		"Text": "Reroll a roll you just made. This can be done during any Phase."
+	},
+	{
+		"Name": "Quick Attack",
+		"Stat Level": 2,
+		"Cost": 2,
+		"Text": "Deal (Lv) damage to a target."
+	},
+	{
+		"Name": "Inspect",
+		"Stat Level": 3,
+		"Cost": 1,
+		"Text": "Choose (PIB) targets. You understand the behavior and a weakness of those targets."
+	},
+	{
+		"Name": "Strategem",
+		"Stat Level": 3,
+		"Cost": 0,
+		"Text": "You or an ally can Move once during the Player Phase without spending AP. This can be done once during the Player Phase."
+	},
+	{
+		"Name": "Evade",
+		"Stat Level": 4,
+		"Cost": 2,
+		"Text": "When you take damage, Move without spending AP. Reduce the damage by (Lv). This can be done during any phase, once per phase."
+	},
+	{
+		"Name": "First-Aid",
+		"Stat Level": 4,
+		"Cost": 2,
+		"Text": "Heal (Lv) Health to any target in your Zone."
+	},
+	{
+		"Name": "Entrust",
+		"Stat Level": 5,
+		"Cost": 1,
+		"Text": "Give a target 1 AP. This can be done during any Phase, once per Phase."
+	}
+]

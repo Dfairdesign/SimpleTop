@@ -1,0 +1,44 @@
+[
+	{
+		"Name": "Heal",
+		"Stat Level": 1,
+		"Cost": 3,
+		"Text": "Heal (Lv+PIB) Health to a target."
+	},
+	{
+		"Name": "Aggro",
+		"Stat Level": 1,
+		"Cost": 2,
+		"Text": "Deal (Lv) damage to a target. That target focuses on you during their next attack."
+	},
+	{
+		"Name": "Reflect",
+		"Stat Level": 2,
+		"Cost": 3,
+		"Text": "When an ally in your Zone takes damage, reduce the damage by (Lv). Deal (PIB) damage to the attacking enemy. This can be done during any Phase."
+	},
+	{
+		"Name": "Protean",
+		"Stat Level": 3,
+		"Cost": 5,
+		"Text": "Choose (PIB) targets. For each target, deal (LV+PIB) damage or heal (Lv+PIB) Health."
+	},
+	{
+		"Name": "Soul Bond",
+		"Stat Level": 4,
+		"Cost": 3,
+		"Text": "When an ally takes damage, you take the damage instead. Reduce the damage by Lv+PIB."
+	},
+	{
+		"Name": "Phoenix",
+		"Stat Level": 5,
+		"Cost": 3,
+		"Text": "Choose an ally with 0 Health. Next Player Phase, their Health is restored to half of your Max Health."
+	},
+	{
+		"Name": "Passage of Arms",
+		"Stat Level": 5,
+		"Cost": 5,
+		"Text": "Reduce all damage by (Lv) for all allies in your Zone until the next Player Phase. You still take full damage. This can be used during any Phase, once Per Phase."
+	}
+]

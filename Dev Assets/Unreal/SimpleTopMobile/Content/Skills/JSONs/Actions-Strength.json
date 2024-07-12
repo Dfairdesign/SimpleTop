@@ -1,0 +1,32 @@
+[
+	{
+		"Name": "Attack",
+		"Stat Level": 1,
+		"Cost": 3,
+		"Text": "Add your Level to the Points in this Block (Lv+PIB). Deal that much damage to a target. "
+	},
+	{
+		"Name": "SplashAttack",
+		"Stat Level": 2,
+		"Cost": 4,
+		"Text": "Deal (Lv+PIB) damage to a target. In the same Zone as that target, deal (.5*Lv+PIB) to one other target. "
+	},
+	{
+		"Name": "Rampage",
+		"Stat Level": 3,
+		"Cost": 4,
+		"Text": "Deal (Lv+PIB) damage to a target in your Zone. Deal (Lv) damage to a target in your Zone. "
+	},
+	{
+		"Name": "AbuttingAttack",
+		"Stat Level": 4,
+		"Cost": 2,
+		"Text": "Deal (Lv) damage to a target in your Zone. "
+	},
+	{
+		"Name": "Powerhouse",
+		"Stat Level": 5,
+		"Cost": 5,
+		"Text": "Distribute (2*Lv+PIB) as damage to multiple targets in your Zone."
+	}
+]

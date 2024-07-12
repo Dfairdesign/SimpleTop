@@ -1,0 +1,38 @@
+[
+	{
+		"Name": "Help",
+		"Stat Level": 1,
+		"Cost": 1,
+		"Text": "Add 1 to the total of any roll. This can be done during any Phase, once per Phase."
+	},
+	{
+		"Name": "Hinder",
+		"Stat Level": 1,
+		"Cost": 1,
+		"Text": "Reduce the total of any roll by 1. This can be done during any Phase, once per Phase."
+	},
+	{
+		"Name": "Mischief",
+		"Stat Level": 2,
+		"Cost": 2,
+		"Text": "Roll (PIB)d6. When two other characters do a Competing Roll, you can swap one of the rolls for either of your rolls."
+	},
+	{
+		"Name": "Swindle",
+		"Stat Level": 3,
+		"Cost": 3,
+		"Text": "The GM spends 1d6 to deal (Lv) damage to an enemy. This can be done during any Phase."
+	},
+	{
+		"Name": "Weighted Die",
+		"Stat Level": 4,
+		"Cost": 2,
+		"Text": "Force an enemy to reroll a rolled die. This can be done during any Phase."
+	},
+	{
+		"Name": "Revival",
+		"Stat Level": 5,
+		"Cost": 4,
+		"Text": "Choose an ally with 0 Health. Next Player Phase, their Health is restored to Lv+PIB."
+	}
+]

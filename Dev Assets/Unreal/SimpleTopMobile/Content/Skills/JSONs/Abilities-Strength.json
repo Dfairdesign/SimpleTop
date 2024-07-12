@@ -1,0 +1,37 @@
+[
+	{
+		"Name": "Heavy Hitter",
+		"Stat Level": 2,
+		"Uses": 0,
+		"Text": "When you use a Strength Action, roll 2d6. If you roll a 12, double all damage from that Action.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Hearty",
+		"Stat Level": 3,
+		"Uses": 0,
+		"Text": "You have 11 Health per Level.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Pushback",
+		"Stat Level": 4,
+		"Uses": 0,
+		"Text": "When you deal damage to a target, you can push them 1 Zone away from you.",
+		"Replaces": ""
+	},
+	{
+		"Name": "Indomitable",
+		"Stat Level": 5,
+		"Uses": 0,
+		"Text": "You have 13 Health per Level. This replaces Hearty.",
+		"Replaces": "Hearty"
+	},
+	{
+		"Name": "Critikill Roll",
+		"Stat Level": 6,
+		"Uses": 0,
+		"Text": "When doing a Competing Roll in combat, you can choose to deal (PIB) damage to the character you're rolling against.'",
+		"Replaces": ""
+	}
+]
